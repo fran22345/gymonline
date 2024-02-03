@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: 
+
+# Sitemaps
+Sitemap: //sitemap.xml
+Sitemap: /listing-sitemap.xml
+Sitemap: /category-sitemap.xml
